@@ -1,10 +1,6 @@
 cff-version: 1.2.0
-version: 2.0.4
-date-released: 2023-2-14
-url: "https://github.com/yellow07200/ESD"
-preferred-citation:
-  type: article
-  authors:
+message: "If you use this software, please cite it as below."
+authors:
   - family-names: "Xiaoqian"
     given-names: "Huang"
     orcid: "https://orcid.org/0000-0000-0000-0000"
@@ -23,7 +19,8 @@ preferred-citation:
   - family-names: "Yahya"
     given-names: "Zweiri"
     orcid: "https://orcid.org/0000-0000-0000-0000"
-  journal: ""https://github.com/yellow07200/ESD"
-  month: 2
-  title: "A Neuromorphic Dataset for Object Segmentation in Indoor Cluttered Environment-codes"
-  year: 2023
+title: "A Neuromorphic Dataset for Object Segmentation in Indoor Cluttered Environment-codes"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2023-2-14
+url: "https://github.com/yellow07200/ESD_labeling_tool"
