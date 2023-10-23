@@ -1,7 +1,7 @@
 The Matlab codes in this repository are the implementation of automatic labeling approach for asynchronous events data proposed in paper "A Neuromorphic Dataset for Object Segmentation in Indoor Cluttered Environment".
 
 ## Cite the article:
-Huang, X., Sanket, K., Ayyad, A., Naeini, F. B., Makris, D., & Zweir, Y. (2023). A Neuromorphic Dataset for Object Segmentation in Indoor Cluttered Environment. arXiv preprint arXiv:2302.06301.
+Huang, X., Sanket, K., Ayyad, A., Naeini, F. B., Makris, D., & Zweiri, Y. (2023). A Neuromorphic Dataset for Object Segmentation in Indoor Cluttered Environment. arXiv preprint arXiv:2302.06301.
 
 ## Dataset repository:
 https://github.com/yellow07200/ESD
