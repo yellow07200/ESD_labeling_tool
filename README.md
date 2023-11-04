@@ -55,3 +55,5 @@ Annotated events:
 
 ## Getting Started
 execute the labeling_auto_clean_2.m file in Matlab
+
+events information is stored in "event_labeled" variable in left.mat and right.mat
